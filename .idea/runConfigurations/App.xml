@@ -1,0 +1,21 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="App" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../../Program Files/Java/jre-1.8" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <envs>
+      <env name="AWS_ACCESS_KEY_ID" value="AKIAWV4HZOSXKC6MCA5H" />
+      <env name="AWS_SECRET_KEY" value="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" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="adthena.App" />
+    <module name="Adthena.app.main" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="adthena.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
